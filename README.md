@@ -10,8 +10,6 @@ In this project we created a we app that displays the enter name and age. Not an
 - How to show an error state
 - How to use portals to render modals
 - How to use useRef
-- How ot use useEffect
-- How to use useReducer
-- Context API
+
 # Course Link
 The course can be found at https://www.udemy.com/course/react-the-complete-guide-incl-redux/
